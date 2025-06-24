@@ -1,0 +1,63 @@
+let nomesPokemon = ['Poochyena', 'Zigzagoon', 'Dragonaite', 'Dragonite', 'Poochyena', 'Wurlmple'];
+let timePokemon = [
+  ['Poochyena', 'M', 2],
+  ['Zigzagoon', 'F', 2],
+  ['Dragonaite', 'M', 5],
+  ['Dragonaite', 'F', 5],
+  ['Poochyena', 'F', 3],
+  ['Wurlmple', 'M', 2],
+];
+console.log(
+  'O Pokemon ' +
+    timePokemon[0][0] +
+    ' do sexo ' +
+    timePokemon[0][1] +
+    ' de nível ' +
+    timePokemon[0][2] + 
+    ' foi cadastrado com sucesso'
+);
+console.log(
+  'O Pokemon ' +
+    timePokemon[1][0] +
+    ' do sexo ' +
+    timePokemon[1][1] +
+    ' de nível ' +
+    timePokemon[1][2] + 
+    ' foi cadastrado com sucesso'
+);
+console.log(
+  'O Pokemon ' +
+    timePokemon[2][0] +
+    ' do sexo ' +
+    timePokemon[2][1] +
+    ' de nível ' +
+    timePokemon[2][2] + 
+    ' foi cadastrado com sucesso'
+);
+console.log(
+  'O Pokemon ' +
+    timePokemon[3][0] +
+    ' do sexo ' +
+    timePokemon[3][1] +
+    ' de nível ' +
+    timePokemon[3][2] + 
+    ' foi cadastrado com sucesso'
+);
+console.log(
+  'O Pokemon ' +
+    timePokemon[4][0] +
+    ' do sexo ' +
+    timePokemon[4][1] +
+    ' de nível ' +
+    timePokemon[4][2] + 
+    ' foi cadastrado com sucesso'
+);
+console.log(
+  'O Pokemon ' +
+    timePokemon[5][0] +
+    ' do sexo ' +
+    timePokemon[5][1] +
+    ' de nível ' +
+    timePokemon[5][2] + 
+    ' foi cadastrado com sucesso'
+);
